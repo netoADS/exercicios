@@ -9,4 +9,3 @@ else:
     while (v1>=v2):
         print(v1)
         v1 = v1-1
-#sub

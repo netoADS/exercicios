@@ -27,4 +27,3 @@ while op:
 
     if op:
         print(moeda.lancar())
-#sub

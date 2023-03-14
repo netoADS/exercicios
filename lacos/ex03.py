@@ -12,4 +12,3 @@ while i <= n:
 
 # imprima a soma
 print("A soma dos", n, "primeiros inteiros positivos é", soma)
-#sub

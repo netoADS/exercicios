@@ -12,4 +12,3 @@ while c <= n:
     c += 1
 
 print(r)
-#sub
