@@ -1,2 +1,2 @@
-# aulaLooping
-aula SENAI sobre estruturas de repetições
+# EXERCICIOS
+todas as atividades de tarefa demandada pelo professor da instituição SENAI será postada neste reposirotio 
